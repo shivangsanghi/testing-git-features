@@ -3,3 +3,4 @@ branch_bug_file1.txt
 file changed
 
 new values added.
+value changed again
